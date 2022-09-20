@@ -3,6 +3,7 @@ def canPartition(nums: List[int]) -> bool:
     if sum(nums) % 2:
         return False
 
+    # set only allows unique values no repeat numbers
     dp = set()
     dp.add(0)
     target = sum(nums) // 2

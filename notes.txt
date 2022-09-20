@@ -1,0 +1,4 @@
+Install black
+create githook
+https://www.youtube.com/watch?v=mBNrRy2_hVs
+check solutions
